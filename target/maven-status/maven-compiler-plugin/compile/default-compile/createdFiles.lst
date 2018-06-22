@@ -1,0 +1,3 @@
+com\muqui\config\AppConfig.class
+com\muqui\controller\HomeController.class
+com\muqui\config\WebAppInitializer.class
